@@ -4,6 +4,7 @@ venv/
 # Data (optional: keep raw only)
 data/processed/
 data/raw/*
+dataset/*
 
 # Models
 models/trained/
