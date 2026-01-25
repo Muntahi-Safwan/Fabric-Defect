@@ -1,0 +1,4 @@
+opencv-python-headless
+numpy
+tflite-runtime
+picamera2
